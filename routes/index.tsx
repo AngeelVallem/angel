@@ -8,9 +8,9 @@ export default function Home() {
         <title>angel</title>
       </Head>
 
-      <main class='w-screen h-screen cotainer bg-cyan-500'>
+      <main class='w-screen h-screen cotainer '>
         <div class='w-full text-center'>
-          <span>angel</span>
+          <span class='color-primary'>angel</span>
         </div>
       </main>
     </>
